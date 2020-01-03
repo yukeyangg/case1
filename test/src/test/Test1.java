@@ -2,6 +2,8 @@ package test;
 
 public class Test1 {
 	public static void main(String[] args) {
-		System.out.println("À²À²À²À²À²");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+		System.out.println("å•¦å•¦å•¦å•¦å•¦å•¦å•¦å•¦å•¦å•¦");
+		
 	}
 }
